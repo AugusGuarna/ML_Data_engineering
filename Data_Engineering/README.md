@@ -1,0 +1,1 @@
+Trabajo realizado en pos de visualizar si existe una relación entre el desarrollo de la actividad orgánica y la proporción de mujeres empleadas en distintos establecimientos productivos de las provincias.
